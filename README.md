@@ -2,7 +2,7 @@
 
 Solves given valid sudoku
 
-Used ```Backtracking Algorithm``` to solve this.
+Used ```Backtracking Algorithm``` to solve this which works recursively by building solution one piece at a time and removing the solutions that fail at any time.
 
 ### Input Format
 
